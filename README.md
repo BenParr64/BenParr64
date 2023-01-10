@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @BenParr64
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... ASP.NET & React!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m currently working for Transport for London
+- 🌱 Personal Projects: Currently developing Headless Eccomerce Site using NextJS for my sideline [Kegthat](https://kegthat.com)
+- 📫 How to reach me ... [LinkedIn](www.linkedin.com/in/benparr64)
 
 <!---
 BenParr64/BenParr64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
